@@ -7,7 +7,7 @@
 ### 👨‍💻 Your Friendly Neighborhood Cyber Specialist
 "With great data comes great responsibility."  
 
-I am **Sreekanth P** (aka **Marco** / **Blaze**), a Science student pursuing an **Advanced Diploma in Information Security (ADIS)** at **Offenso Hackers Academy**, Calicut. I spend my days swinging through network layers and catching vulnerabilities in my web.
+I am **Sreekanth P** (aka **Bruce Wayne**), a Science student pursuing an **Advanced Diploma in Information Security (ADIS)** at **Offenso Hackers Academy**, Calicut. I spend my days swinging through network layers and catching vulnerabilities in my web.
 
 ---
 
