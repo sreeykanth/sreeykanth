@@ -1,41 +1,50 @@
-🕸️ Welcome to the Spider-Verse of Sreekanth P 🕷️
+# 🕷️ Sreekanth's Spider-Verse | Cybersecurity Explorer 🕸️
+
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/5XvO8zVvI4P0Y/giphy.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Swinging.gif" width="300">
 </p>
 
-👨‍💻 Your Friendly Neighborhood Cyber Specialist
-With great power comes great responsibility—and a lot of Kali Linux. I am a science student and cybersecurity enthusiast currently pursuing an Advanced Diploma in Information Security (ADIS). Whether I'm building CTF challenges or securing web applications, I'm always swinging through the web to catch vulnerabilities.
+### 👨‍💻 Your Friendly Neighborhood Cyber Specialist
+"With great data comes great responsibility."  
 
-🛠️ Technical Web-Shooters (Skills)
-Primary Focus: Digital Forensics & Penetration Testing
+I am **Sreekanth P** (aka **Marco** / **Blaze**), a Science student pursuing an **Advanced Diploma in Information Security (ADIS)** at **Offenso Hackers Academy**, Calicut. I spend my days swinging through network layers and catching vulnerabilities in my web.
 
-Security Arsenal: Kali Linux, Metasploit, SQL Injection, CSRF
+---
 
-Networking: Mastering the OSI Model & TCP/IP
+### 🛡️ Heroic Arsenal (Skills)
+* **Operating Systems:** Kali Linux (My Main Suit), Parrot OS
+* **Web Security:** SQL Injection, CSRF, OWASP Top 10
+* **Digital Forensics:** Specialized in CTF challenge building
+* **Development:** Building vulnerable labs & professional portfolios
+* **Languages:** Malayalam, Hindi, English
 
-Scripting & Labs: Developing anime-themed vulnerable web labs
+---
 
-🛡️ Heroic Deeds (Projects & Experience)
-Count Flagula: Midnight Hunt: Backend Forensic Author & CTF Challenge Builder.
+### 🧪 Secret Projects (Labs & CTFs)
+* **[Count Flagula: Midnight Hunt](https://sreeykanth.github.io):** Backend Forensic Author for Offenso's flagship CTF.
+* **Demon Slayer Labs:** Developing SQLi & CSRF labs themed after my favorite anime, featuring **Zenitsu Agatsuma**.
+* **Filmmaking:** Analyzing cinematic storyboards for my future short film debut.
 
-Vulnerable Lab Development: Created SQLi and CSRF labs inspired by PortSwigger and Demon Slayer.
+---
 
-Advent of Cyber 2025: Verified participant and security researcher.
-
-📊 My Daily Routine (GitHub Stats)
+### 📊 Training Progress
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sreeykanth&show_icons=true&theme=tokyonight" alt="Sreekanth's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeykanth&show_icons=true&theme=tokyonight" alt="Sreekanth's GitHub Stats" />
 </p>
 
-📬 Contact the Daily Bugle (Let's Connect)
-Email: psreekanth834@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Walking.gif" width="150">
+</p>
 
-Aliases: Marco | Blaze
+---
 
-Location: Kerala, India 🇮🇳
+### 📡 Signal the Spider-Signal
+* **Portfolio:** [sreeykanth.github.io](https://sreeykanth.github.io)
+* **Email:** psreekanth834@gmail.com
+* **Location:** Kerala, India 🇮🇳
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/1qErVv5GVUac8uqWnr/giphy.gif" width="150">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Upside_Down.gif" width="100">
 </p>
 
 <!--
