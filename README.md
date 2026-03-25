@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Swinging.gif" width="400" alt="Welcome to my Spider-Verse">
+  <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey.gif?raw=true" width="400" alt="Welcome to my Spider-Verse">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 | [**Visit my Cyberfolio**](https://sreeykanth.github.io) | [**Listen to Spidey Vibes**](https://www.youtube.com/watch?v=mgOS6as_648) |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/5XvO8zVvI4P0Y/giphy.gif" width="100"> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/1qErVv5GVUac8uqWnr/giphy.gif" width="100"> |
+| <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-walk.gif?raw=true" width="100"> | <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-swing.gif?raw=true" width="100"> |
 
 </div>
 
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Walking.gif" width="100">
+  <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-upside-down.gif?raw=true" width="100">
   <br>
   <img src="https://profile-counter.glitch.me/sreeykanth/count.svg" alt="Visitor Count" />
   <br>
@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/Powered%20By-Coffee-brown?style=flat-square" />
   <img src="https://img.shields.io/badge/Browser-Internet%20Explorer-orange?style=flat-square" />
 </p>
-
 <!--
 **sreeykanth/sreeykanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
