@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>"With great power comes great responsibility..."</b>
+  <b>"With great power comes great responsibility...."</b>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 | [**Visit my Cyberfolio**](https://sreeykanth.github.io) | [**Listen to Spidey Vibes**](https://www.youtube.com/watch?v=mgOS6as_648) |
 | :---: | :---: |
-| <img src="[https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-walk.gif](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ0NDkwNjksIm5iZiI6MTc3NDQ0ODc2OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI1VDE0MjYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyZjlkZjNkMGY4MGM1ODRlZTZhYmI1YmNjNGNhYmUyMDY5NmUwZjgyOTc2OGYyOWVhMWNiMTIyMTViZGRhODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1CKRuX6_ICWLz_Pju8imOEz9OY_D_vkF7giX94OWy88)?raw=true" width="100"> | <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-swing.gif?raw=true" width="100"> |
+| <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif?raw=true" width="100"> | <img src="https://github.com/Ashutosh-Anand2/Ashutosh-Anand2/blob/master/assets/spidey-swing.gif?raw=true" width="100"> |
 
 </div>
 
@@ -43,7 +43,7 @@
 - 🛡️ **Cybersecurity:** Advanced Diploma in Information Security (ADIS)
 - 🧪 **Labs:** SQLi & CSRF Vulnerability Lab Creator
 - 🕵️ **Forensics:** Backend Author for "Count Flagula: Midnight Hunt"
-- 🎥 **Personal:** Strong Coffee Enthusiast (1.25 spoons!) & Aspiring Filmmaker
+- 🎥 **Personal:** Strong Coffee Enthusiast & Aspiring Filmmaker
 
 ---
 
@@ -71,17 +71,3 @@
   <img src="https://img.shields.io/badge/Powered%20By-Coffee-brown?style=flat-square" />
   <img src="https://img.shields.io/badge/Browser-Internet%20Explorer-orange?style=flat-square" />
 </p>
-<!--
-**sreeykanth/sreeykanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
