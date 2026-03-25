@@ -1,50 +1,75 @@
-# 🕷️ Sreekanth's Spider-Verse | Cybersecurity Explorer 🕸️
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Swinging.gif" width="300">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Swinging.gif" width="400" alt="Welcome to my Spider-Verse">
 </p>
 
-### 👨‍💻 Your Friendly Neighborhood Cyber Specialist
-"With great data comes great responsibility."  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E23636&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sreekanth+P;I+love+Cybersecurity;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
-I am **Sreekanth P** (aka **Bruce Wayne**), a Science student pursuing an **Advanced Diploma in Information Security (ADIS)** at **Offenso Hackers Academy**, Calicut. I spend my days swinging through network layers and catching vulnerabilities in my web.
-
----
-
-### 🛡️ Heroic Arsenal (Skills)
-* **Operating Systems:** Kali Linux (My Main Suit), Parrot OS
-* **Web Security:** SQL Injection, CSRF, OWASP Top 10
-* **Digital Forensics:** Specialized in CTF challenge building
-* **Development:** Building vulnerable labs & professional portfolios
-* **Languages:** Malayalam, Hindi, English
+<p align="center">
+  <b>"With great power comes great responsibility... and a lot of Kali Linux."</b>
+</p>
 
 ---
 
-### 🧪 Secret Projects (Labs & CTFs)
-* **[Count Flagula: Midnight Hunt](https://sreeykanth.github.io):** Backend Forensic Author for Offenso's flagship CTF.
-* **Demon Slayer Labs:** Developing SQLi & CSRF labs themed after my favorite anime, featuring **Zenitsu Agatsuma**.
-* **Filmmaking:** Analyzing cinematic storyboards for my future short film debut.
+<div align="center">
+
+| [**Visit my Cyberfolio**](https://sreeykanth.github.io) | [**Listen to Spidey Vibes**](https://www.youtube.com/watch?v=mgOS6as_648) |
+| :---: | :---: |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/5XvO8zVvI4P0Y/giphy.gif" width="100"> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZreXJmZTR4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/1qErVv5GVUac8uqWnr/giphy.gif" width="100"> |
+
+</div>
+
+---
+
+### 📖 The Guestbook
+<p align="left">
+  <a href="https://github.com/sreeykanth/sreeykanth/issues/new">
+    <img src="https://img.shields.io/badge/Sign%20my-Guestbook-E23636?style=for-the-badge&logo=github" alt="Guestbook">
+  </a>
+</p>
+
+| Name | Message |
+| :--- | :--- |
+| 🕷️ Peter Parker | "Nice work on the Count Flagula CTF!" |
+| ⚡ Zenitsu | "The Demon Slayer theme in Z-Labs is amazing!" |
+
+> [!TIP]
+> **To add your name to the list, click the "Sign my Guestbook" button above!**
+
+---
+
+### 🛠️ Technical Web-Shooters (Skills)
+- 🛡️ **Cybersecurity:** Advanced Diploma in Information Security (ADIS)
+- 🧪 **Labs:** SQLi & CSRF Vulnerability Lab Creator
+- 🕵️ **Forensics:** Backend Author for "Count Flagula: Midnight Hunt"
+- 🎥 **Personal:** Strong Coffee Enthusiast (1.25 spoons!) & Aspiring Filmmaker
 
 ---
 
 ### 📊 Training Progress
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeykanth&show_icons=true&theme=tokyonight" alt="Sreekanth's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeykanth&show_icons=true&theme=tokyonight&hide_border=true&title_color=E23636&icon_color=E23636" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Walking.gif" width="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeykanth&theme=tokyonight&hide_border=true&stroke=E23636&ring=E23636&fire=E23636" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📡 Signal the Spider-Signal
-* **Portfolio:** [sreeykanth.github.io](https://sreeykanth.github.io)
-* **Email:** psreekanth834@gmail.com
-* **Location:** Kerala, India 🇮🇳
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Walking.gif" width="100">
+  <br>
+  <img src="https://profile-counter.glitch.me/sreeykanth/count.svg" alt="Visitor Count" />
+  <br>
+  <b>Thanks for swinging by!</b>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Spiderman/Spiderman_Upside_Down.gif" width="100">
+  <img src="https://img.shields.io/badge/Built%20With-Kali%20Linux-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/Browser-Internet%20Explorer-orange?style=flat-square" />
 </p>
 
 <!--
