@@ -16,7 +16,7 @@
 
 | [**Visit my Cyberfolio**](https://sreeykanth.github.io) | [**Listen to Spidey Vibes**](https://www.youtube.com/watch?v=mgOS6as_648) |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif?raw=true" width="100"> | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4OTI5ZjdmdHdibDh2YTZ2YmhhdjNjODYzOG4wZHBwZmowOGcyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif?raw=true" width="100"> |
+| <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif?raw=true" width="100"> | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4OTI5ZjdmdHdibDh2YTZ2YmhhdjNjODYzOG4wZHBwZmowOGcyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif?raw=true" width="1000"> |
 
 </div>
 
