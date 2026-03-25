@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>"With great power comes great responsibility... and a lot of Kali Linux."</b>
+  <b>"With great power comes great responsibility..."</b>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 
 | Name | Message |
 | :--- | :--- |
-| 🕷️ Peter Parker | "Nice work on the Count Flagula CTF!" |
-| ⚡ Zenitsu | "The Demon Slayer theme in Z-Labs is amazing!" |
+| 🕷️ Sreekanth | "Nice work on the Count Flagula CTF!" |
+| ⚡ Sreekanth | "The Demon Slayer theme in Z-Labs is amazing!" |
 
 > [!TIP]
 > **To add your name to the list, click the "Sign my Guestbook" button above!**
